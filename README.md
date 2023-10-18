@@ -7,14 +7,14 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
-- 🌱 I’m currently an **Android Development**
-- 🌱 I’m currently Learning **DART**
+- 🌱 I’m currently an **Android Developer**
+- 🌱 I’m currently Learning **DART/Flutter**
 
 - 💬 Ask me about **Java,C++,C**
 
-- 📫 How to reach me Gmail: **shamsurrahman07052001@gmail.com**
-- 📫 How to reach me Linkein: **https://www.linkedin.com/in/md-shamsur-rahman-sami-0a677b246/**
-- 📫 How to reach me Facebook: **https://web.facebook.com/profile.php?id=100074598887307**
+- 📫 How to reach me, Gmail: **shamsurrahman07052001@gmail.com**
+- 📫 How to reach me, Linkedin: **https://www.linkedin.com/in/md-shamsur-rahman-sami-0a677b246/**
+- 📫 How to reach me, Facebook: **https://web.facebook.com/profile.php?id=100074598887307**
 
 
 
