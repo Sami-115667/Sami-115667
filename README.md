@@ -10,7 +10,7 @@
 - 🌱 I’m currently an **Android Developer**
 - 🌱 I’m currently Learning **DART/Flutter**
 
-- 💬 Ask me about **Java,C++,C**
+- 💬 Ask me about **Python,Latex,Java,C++,C**
 
 - 📫 How to reach me, Gmail: **shamsurrahman07052001@gmail.com**
 - 📫 How to reach me, Linkedin: **https://www.linkedin.com/in/md-shamsur-rahman-sami-0a677b246/**
