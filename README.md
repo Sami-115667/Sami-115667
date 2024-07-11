@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently an **Android Developer**
 - 🌱 I’m currently Working in an **E-Commerce App**
-- 🌱 I’m currently Learning **DART/Flutter/Pyhton_Maching_Learning**
+- 🌱 I’m currently Learning **React/DART/Flutter/Pyhton_Maching_Learning**
 
 - 💬 Ask me about **Python,Latex,Java,C++,C**
 
