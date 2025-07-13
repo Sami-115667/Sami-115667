@@ -63,15 +63,25 @@
 <h3 align="left">Pinned Projects:</h3>
 <p align="left">
   <a href="https://github.com/Sami-115667/Swapno-An-Ecommerce-App">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sami-115667&repo=Swapno-An-Ecommerce-App&theme=blue-green" alt="Swapno Ecommerce App"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sami-115667&repo=Swapno-An-Ecommerce-App&theme=blue-green" alt="Swapno Ecommerce App"/>
   </a>
-  <a href="https://github.com/Sami-115667/Current-UniversityBD">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sami-115667&repo=Current-UniversityBD&theme=blue-green" alt="Current University BD"/>
+  <a href="https://github.com/Sami-115667/Current-UniversityBD-Fork">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sami-115667&repo=Current-UniversityBD-Fork&theme=blue-green" alt="Current University BD"/>
   </a>
-  <a href="https://github.com/sami-115667/Healthcare">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sami-115667&repo=Healthcare&theme=blue-green" alt="Healthcare"/>
+  <a href="https://github.com/Sami-115667/Healthcare">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sami-115667&repo=Healthcare&theme=blue-green" alt="Healthcare"/>
+  </a>
+  <a href="https://github.com/Sami-115667/The_Aeroplane_Game-MIG-29">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sami-115667&repo=The_Aeroplane_Game-MIG-29&theme=blue-green" alt="A 2D Aeroplane Game"/>
+  </a>
+  <a href="https://github.com/Sami-115667/LU_Hackathon_Zero_XP">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sami-115667&repo=LU_Hackathon_Zero_XP&theme=blue-green" alt="LU Hackathon Zero XP"/>
+  </a>
+  <a href="https://github.com/Sami-115667/Networking-Project">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sami-115667&repo=Networking-Project&theme=blue-green" alt="Group Chat and File Transfer Application"/>
   </a>
 </p>
+
 
 <h3 align="left">GitHub Stats:</h3>
 <p align="left"> 
