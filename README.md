@@ -1,99 +1,139 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
+<!-- Header Banner -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=200&section=header&text=Md%20Shamsur%20Rahman%20Sami&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Problem%20Solver%20%7C%20Quick%20Learner&descAlignY=58&descSize=16&animation=fadeIn" width="100%" />
+</div>
 
-<h1 align="center">Hi 👋, I'm Md Shamsur Rahman Sami</h1>
-<h3 align="center">A passionate Tech Enthusiast. Problem Solver. Quick Learner.</h3>
+<!-- Typing Animation -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Sami+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%92%BB;Problem+Solver+%F0%9F%A7%A9;Always+Learning+Something+New+%F0%9F%8C%B1" alt="Typing SVG" />
+</div>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<br/>
 
-- 🌱 I’m currently a **Full Stack Developer**
-- 🌱 I’m working on a **HealthCare Project**
-- 🌱 I’m currently learning **SpringBoot/Machine Learning**
+<!-- About Me -->
+<img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
-- 💬 Ask me about **C, C++, Java, Python, MySQL, Oracle, LaTeX, Dart, JavaScript**
+### 👨‍💻 About Me
 
-- 📫 Reach me at:
-  - Gmail: [**shamsurrahman07052001@gmail.com**](mailto:shamsurrahman07052001@gmail.com)
-  - LinkedIn: [**https://www.linkedin.com/in/md-shamsur-rahman-sami-0a677b246/**](https://www.linkedin.com/in/md-shamsur-rahman-sami-0a677b246/)
-  - Facebook: [**https://web.facebook.com/profile.php?id=100074598887307**](https://web.facebook.com/profile.php?id=100074598887307)
+```yaml
+name       : Md Shamsur Rahman Sami
+alias      : Sami
+role       : Full Stack Developer
+location   : Bangladesh 🇧🇩
+currently  : Building a new Project 🏥
+learning   : Deployment, CI-CD pipelines, Load Balancing 🤖
+ask me     : C, C++, Java, Python, MySQL, Dart, JS, Flutter
+open_to    : Collaborations & Opportunities
+```
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/md-shamsur-rahman-sami-0a677b246/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/md-shamsur-rahman-sami-0a677b246/" height="30" width="40" /></a>
-  <a href="https://www.facebook.com/profile.php?id=100074598887307" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100074598887307" height="30" width="40" /></a>
-  <a href="https://www.youtube.com/@mdshamsurrahman6077" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@mdshamsurrahman6077" height="30" width="40" /></a>
-  <a href="https://www.codechef.com/users/msrs_01" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/msrs_01" height="30" width="40" /></a>
-  <a href="https://codeforces.com/profile/msrs_01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/msrs_01" height="30" width="40" /></a>
-</p>
+<br clear="right"/>
 
-<h3 align="left">Languages and Tools:</h3>
+---
 
-<p align="left"> 
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
-  </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> 
-  </a> 
-</p>
+<!-- Status Badges -->
+<div align="center">
 
-<h3 align="left">Pinned Projects:</h3>
-<p align="left">
-  <a href="https://github.com/Sami-115667/Swapno-An-Ecommerce-App">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sami-115667&repo=Swapno-An-Ecommerce-App&theme=blue-green" alt="Swapno Ecommerce App"/>
-  </a>
-  <a href="https://github.com/Sami-115667/Current-UniversityBD-Fork">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sami-115667&repo=Current-UniversityBD-Fork&theme=blue-green" alt="Current University BD"/>
-  </a>
-  <a href="https://github.com/Sami-115667/Healthcare">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sami-115667&repo=Healthcare&theme=blue-green" alt="Healthcare"/>
-  </a>
-  <a href="https://github.com/Sami-115667/The_Aeroplane_Game-MIG-29">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sami-115667&repo=The_Aeroplane_Game-MIG-29&theme=blue-green" alt="A 2D Aeroplane Game"/>
-  </a>
-  <a href="https://github.com/Sami-115667/LU_Hackathon_Zero_XP">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sami-115667&repo=LU_Hackathon_Zero_XP&theme=blue-green" alt="LU Hackathon Zero XP"/>
-  </a>
-  <a href="https://github.com/Sami-115667/Networking-Project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sami-115667&repo=Networking-Project&theme=blue-green" alt="Group Chat and File Transfer Application"/>
-  </a>
-</p>
+![Status](https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=for-the-badge&logo=statuspage&logoColor=white)
+![Focus](https://img.shields.io/badge/Focus-Full%20Stack-0ea5e9?style=for-the-badge&logo=stackshare&logoColor=white)
+![Learning](https://img.shields.io/badge/Learning-Spring%20Boot%20%26%20ML-6366f1?style=for-the-badge&logo=spring&logoColor=white)
 
+</div>
 
-<h3 align="left">GitHub Stats:</h3>
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=sami-115667&label=Profile%20views&color=0e75b6&style=flat" alt="sami-115667" /> 
-</p>
+---
 
-<p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sami-115667" alt="sami-115667" /></a> 
-</p>
+<!-- Connect With Me -->
+### 🌐 Connect With Me
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sami-115667&show_icons=true&locale=en&layout=compact" alt="sami-115667" /></p>
+<div align="left"><a href="https://www.linkedin.com/in/md-shamsur-rahman-sami-0a677b246/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;<a href="mailto:shamsurrahman07052001@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;<a href="https://web.facebook.com/profile.php?id=100074598887307" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>&nbsp;<a href="https://www.youtube.com/@mdshamsurrahman6077" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>&nbsp;<a href="https://codeforces.com/profile/msrs_01" target="_blank"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /></a>&nbsp;<a href="https://www.codechef.com/users/msrs_01" target="_blank"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" /></a></div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sami-115667&show_icons=true&locale=en" alt="sami-115667" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sami-115667&theme=dark" alt="sami-115667" /></p>
+<!-- Tech Stack -->
+### 🛠️ Tech Stack & Tools
+
+**Languages**
+
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
+
+**Frameworks & Platforms**
+
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+
+**Databases**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+
+**Tools & Others**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)
+
+---
+
+<!-- Projects -->
+### 🚀 Featured Projects
+
+<div align="center">
+
+| Project | Description | Tech |
+|--------|-------------|------|
+| [🛒 Swapno — E-Commerce App](https://github.com/Sami-115667/Swapno-An-Ecommerce-App) | Full-featured e-commerce mobile app | Flutter / Dart |
+| [🏥 Healthcare System](https://github.com/Sami-115667/Healthcare) | Ongoing healthcare management platform | Java / Spring |
+| [🎓 UniversityBD](https://github.com/Sami-115667/Current-UniversityBD-Fork) | University info portal for BD students | JavaScript |
+| [✈️ MIG-29 Aeroplane Game](https://github.com/Sami-115667/The_Aeroplane_Game-MIG-29) | 2D arcade shooter game | Python |
+| [🏆 LU Hackathon — Zero XP](https://github.com/Sami-115667/LU_Hackathon_Zero_XP) | Hackathon project under pressure | Java |
+| [🌐 Group Chat & File Transfer](https://github.com/Sami-115667/Networking-Project) | Real-time group chat + file transfer app | Java / Networking |
+
+</div>
+
+---
+
+<!-- GitHub Stats -->
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sami-115667&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sami-115667&layout=compact&theme=tokyonight&hide_border=true" height="180" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sami-115667&theme=tokyonight&hide_border=true" width="60%" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sami-115667&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" width="100%" />
+</div>
+
+---
+
+<!-- Activity Graph -->
+### 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sami-115667&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+</div>
+
+---
+
+<!-- Profile Views -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=sami-115667&label=Profile%20Views&color=0ea5e9&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/sami-115667?label=Followers&style=for-the-badge&color=6366f1" />
+</div>
+
+<!-- Footer Wave -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:0ea5e9&height=100&section=footer" width="100%" />
+</div>
