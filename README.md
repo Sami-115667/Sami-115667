@@ -1,11 +1,10 @@
 <!-- Header Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=200&section=header&text=Md%20Shamsur%20Rahman%20Sami&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Problem%20Solver%20%7C%20Quick%20Learner&descAlignY=58&descSize=16&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,50:0ea5e9,100:6366f1&height=220&section=header&text=Md%20Shamsur%20Rahman%20Sami&fontSize=38&fontColor=ffffff&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20Problem%20Solver%20%7C%20Quick%20Learner&descAlignY=60&descSize=15&animation=twinkling" width="100%"/>
 </div>
 
-<!-- Typing Animation -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Sami+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%92%BB;Problem+Solver+%F0%9F%A7%A9;Always+Learning+Something+New+%F0%9F%8C%B1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&width=650&lines=Hey+there!+I'm+Sami+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80;Competitive+Programmer+%F0%9F%A7%A9;Building+the+Future%2C+One+Commit+at+a+Time+%E2%9C%A8" alt="Typing SVG"/>
 </div>
 
 <br/>
@@ -133,7 +132,12 @@ open_to    : Collaborations & Opportunities
   <img src="https://img.shields.io/github/followers/sami-115667?label=Followers&style=for-the-badge&color=6366f1" />
 </div>
 
-<!-- Footer Wave -->
+<br>
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:0ea5e9&height=100&section=footer" width="100%" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="70%"/>
 </div>
+<br/>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:0ea5e9,100:4f46e5&height=120&section=footer" width="100%"/>
+</div>
+
